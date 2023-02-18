@@ -1,0 +1,76 @@
+body{
+    background-color: #58595B;
+}
+
+.login-container{
+    margin-top: 10%;
+    width: 60%;
+}
+.login-form-1{
+    border-radius: 5px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    padding: 5%;
+    height: 60vh;
+    background-color: #fff;
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+}
+.login-form-1 img{
+    width: 15%;
+    margin: 0 auto;
+}
+.login-form-1 span{
+    text-align: center;
+}
+.login-form-2{
+    border-radius: 5px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    padding: 5%;
+    background: #F26424;
+}
+.login-form-2 h3{
+    text-align: center;
+    color: #fff;
+}
+.login-container form{
+    padding: 5% 25% 5% 25%;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+    color: #fff;
+    background-color: #F26424;
+    margin: 5px auto;
+}
+.login-form-2 .btnSubmit{
+    background-color: #fff;
+    color: #F26424;
+    margin: 5px auto;
+}
+.login-form-2 .ForgetPwd{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+.login-form-1 .ForgetPwd{
+    color: #0062cc;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+}
+
+.logo-kuepa{
+    width: 25%;
+}
